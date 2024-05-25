@@ -1,9 +1,9 @@
 ## 🚀 Olá! Sou o Pedro Henrique Soares 👋
-Eu sou uma pessoa desenvolvedora Back-end se aprimorando para se tornar full-stack...
+Eu sou um desenvolvedor FullStack se aprimorando a cada dia...
 ##
-👩‍💻 Trabalho atualmente como Analista de Desenvolvimento de Sistemas (Produto) na <a href="https://actdigital.com/ptAct">ACT Digital</a>.
+👩‍💻 Trabalho atualmente como Desenvolvedor FullStack na <a href="https://www.gosat.org/">GOSAT</a>.
 
-🧠 Estou aprendendo Java e Php enquanto estudo Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br/">Estácio</a>.
+🧠 Estou aprendendo PHP-JavaScript enquanto estudo Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br/">Estácio</a>.
 
 👯‍♀️ Procuro colaborar em projetos que promovam a inovação e impacto social.
 
