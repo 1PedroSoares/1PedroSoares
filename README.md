@@ -1,7 +1,7 @@
 ## 🚀 Olá! Sou o Pedro Henrique Soares 👋
 Eu sou um desenvolvedor FullStack se aprimorando a cada dia...
 ##
-👩‍💻 Trabalho atualmente como Desenvolvedor FullStack na <a href="https://www.gosat.org/">GOSAT</a>.
+👩‍💻 Trabalhei recentemente como Desenvolvedor FullStack na <a href="https://www.gosat.org/">GOSAT</a>.
 
 🧠 Estou aprendendo PHP-JavaScript enquanto estudo Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br/">Estácio</a>.
 
