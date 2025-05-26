@@ -57,6 +57,7 @@ Busco sempre oportunidades de novos desafios, para crescer em conjunto com gente
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1PedroSoares/1PedroSoares/output/pacman-contribution-graph-dark.svg">
