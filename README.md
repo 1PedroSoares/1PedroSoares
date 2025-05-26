@@ -78,7 +78,6 @@ Busco sempre oportunidades de novos desafios, para crescer em conjunto com gente
 <p align="center"><i>Obrigado pela visita! 🤝</i></p>
 
 ---
-##
 
 <!---
 1PedroSoares/1PedroSoares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
