@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">Desenvolvedor Full Stack | Tecnólogo em Análise e Desenvolvimento de Sistemas</p>
+<p align="center">Desenvolvedor Full Stack | Engenharia de Software</p>
 
 ###
 
