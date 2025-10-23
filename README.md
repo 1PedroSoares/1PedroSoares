@@ -18,7 +18,7 @@
 <img align="right" alt="boy-coding-gif" src="https://media.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif?cid=ecf05e47d99sgupecm53zpocazzo18475gzm0ziy7f0d5223&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="120"/>
 
 🚀 Olá! Sou o **Pedro Henrique Soares**
-Eu sou um desenvolvedor FullStack entusiasta se aprimorando a cada dia. Atualmente curso **Análise e Desenvolvimento de Sistemas** e venho aplicando meus conhecimentos em projetos Full Stack que unem teoria, a experiência que já obtive até aqui e a vontade de fazer do mundo um lugar melhor colaborarando em projetos que promovam a inovação e impacto social.
+Eu sou um desenvolvedor FullStack entusiasta se aprimorando a cada dia. Formado em **ADS** e atualmente cursando **Engenharia de Software** e venho aplicando meus conhecimentos em projetos Full Stack que unem teoria, a experiência que já obtive até aqui e a vontade de fazer do mundo um lugar melhor colaborarando em projetos que promovam a inovação e impacto social.
 👩‍💻 Trabalhei recentemente como Desenvolvedor FullStack na <a href="https://www.gosat.org/">GOSAT</a>.
 
 Busco sempre oportunidades de novos desafios, para crescer em conjunto com gente que quer trazer impacto relevante. 🤝
